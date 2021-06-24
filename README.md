@@ -38,7 +38,7 @@
 	<div>
    	<a href="https://github.com/tayhsn">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayhsn&theme=tokyonight&show_icons=true&hide_title=false">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayhsn&layout=compact&theme=tokyonight&langs_count=16&hide_title=false"></a> <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayhsn&layout=compact&theme=tokyonight&langs_count=16&hide_title=false&exclude_repo=cafezin"></a> <br>
 	</div>
 
 	
