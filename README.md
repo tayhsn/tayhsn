@@ -3,8 +3,8 @@
         <h3> Seeking to change the world through technology!</h3>
         <img src="icons/illustration.png" alt="illustration" min-width="300px" max-width="400px" width="400px" align="right">
         <ul>
-            <li>🌱 I’m currently learning <strong>ReactJS, NodeJS, Java and DataBase.</strong></li>
-            <li>🤓 I already know well <strong>HTML, CSS, Bootstrap, JavaScript & Git.</strong></li>
+	    <li>🤓 I am great with <strong>HTML, CSS, JavaScript & Git.</strong></li>
+            <li>🌱 I’m currently learning and practicing <strong>Java, DataBases, Node & React.</strong></li>
             <li>👩‍💻 I'm an <strong>agile developer.</strong></li>
             <li>🐱‍👤 I’m looking to <strong>collaborate on open source projects.</strong></li>
             <li>🐱‍🏍 I’m open to <strong>job opportunities.</strong></li>
