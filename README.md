@@ -1,7 +1,7 @@
 <main>
 	<h1>I'm a Full Stack Developer 👩‍💻 </h1>
         <h3> Seeking to change the world through technology!</h3>
-        <img src="icons/illustration.png" alt="illustration" min-width="300px" max-width="400px" width="400px" align="right">
+        <img src="icons/illustration.png" alt="illustration" min-width="300rem" max-width="400rem" width="400rem" align="right">
         <ul>
 	    <li>🤓 I am great with <strong>HTML, CSS, JavaScript & Git.</strong></li>
             <li>🌱 I’m currently learning and practicing <strong>Java, DataBases & NodeJS.</strong></li>
