@@ -1,8 +1,9 @@
 <main>
 	<h1>I'm a Full Stack Developer 👩‍💻 </h1>
         <h3> Seeking to change the world through technology!</h3>
-        <img src="icons/illustration.png" alt="illustration" min-width="300rem" max-width="500rem" width="500rem" align="right">
+        <img src="icons/illustration.png" alt="illustration" min-width="300rem" max-width="400rem" width="400rem" align="right">
         <ul>
+		<li>👀 Take a look at my repositories</li>
 	    <li>🤓 I am great with <strong>HTML, CSS, JavaScript & Git.</strong></li>
             <li>🌱 I’m currently learning <strong>Java, DataBases & NodeJS.</strong></li>
             <li>👩‍💻 I'm an <strong>agile developer.</strong></li>
@@ -10,7 +11,7 @@
             <li>🐱‍🏍 I’m open to <strong>job opportunities.</strong></li>
             <li>🐙 I’m able to help you with <strong>Git.</strong></li>
             <li>🌎 <strong>My mission is positively impact people and the world. </strong></li>
-            <li>💬 Ask me about anything.😄</li>
+            <li>💬 Speak to me about anything.😄</li>
             <li>👧 Call me by She/Her.</li>
     	</ul>
 	</main>
