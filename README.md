@@ -1,10 +1,10 @@
 <main>
 	<h1>I'm a Full Stack Developer 👩‍💻 </h1>
         <h3> Seeking to change the world through technology!</h3>
-        <img src="icons/illustration.png" alt="illustration" min-width="300rem" max-width="400rem" width="400rem" align="right">
+        <img src="icons/illustration.png" alt="illustration" min-width="300rem" max-width="500rem" width="500rem" align="right">
         <ul>
 	    <li>🤓 I am great with <strong>HTML, CSS, JavaScript & Git.</strong></li>
-            <li>🌱 I’m currently learning and practicing <strong>Java, DataBases & NodeJS.</strong></li>
+            <li>🌱 I’m currently learning <strong>Java, DataBases & NodeJS.</strong></li>
             <li>👩‍💻 I'm an <strong>agile developer.</strong></li>
             <li>🐱‍👤 I’m looking to <strong>collaborate on open source projects.</strong></li>
             <li>🐱‍🏍 I’m open to <strong>job opportunities.</strong></li>
